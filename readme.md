@@ -3,7 +3,7 @@
 
 [📧 tbpmtbpm@gmail.com](mailto:tbpmtbpm@gmail.com)  
 
-[🔗 github.com/itsabgr](https://github.com/itsabgr) 
+[🔗 Github.com/itsabgr](https://github.com/itsabgr) 
 
 
 I started programming at 16 by learning Lua in a self-study manner.
@@ -53,7 +53,7 @@ I developed a cross-platform client library in Dart.
 * Load balancers and Proxies (Nginx)
 * RDBMSs and SQL
 * NoSQL (MongoDB, Redis)
-* P2P, Decentralized, and distributed systems
+* P2P, Decentralized, Distributed and Blockchain-based systems
 * CI/CD
 * Git and Github-flow
 
