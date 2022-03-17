@@ -1,9 +1,9 @@
 # Eng. A. Bagheri
 **Birth in 1998** 
 
-[tbpmtbpm@gmail.com](mailto:tbpmtbpm@gmail.com)  
+[📧 tbpmtbpm@gmail.com](mailto:tbpmtbpm@gmail.com)  
 
-[github.com/itsabgr](https://github.com/itsabgr) 
+[🔗 github.com/itsabgr](https://github.com/itsabgr) 
 
 
 I started programming at 16 by learning Lua in a self-study manner.
