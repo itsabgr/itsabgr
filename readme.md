@@ -55,7 +55,7 @@ I developed a cross-platform client library in Dart.
 * NoSQL (MongoDB, Redis)
 * P2P, Decentralized, Distributed and Blockchain-based systems
 * CI/CD
-* Git and Github-flow
+* Git and Github flow
 
 
 ## LANGUAGES
