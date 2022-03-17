@@ -1,4 +1,4 @@
-# Eng. A. Bagheri
+# ENG. A. BAGHERI
 **Birth in 1998** 
 
 [📧 tbpmtbpm@gmail.com](mailto:tbpmtbpm@gmail.com)  
@@ -12,7 +12,7 @@ I have good knowledge of low-level network programming on Linux, so Ubuntu is my
 I built 15+ projects some in a team but more of them lonely as a software engineer and backend developer.
 
 
-## Notable Projects
+## NOTABLE PROJECTS
 
 ### Ride-sharing app
 Online-taxi project by **NodeJS**+**TypeScript**.
@@ -42,7 +42,7 @@ I also developed a DHT for its peer discovery to store users' information into t
 I developed a cross-platform client library in Dart.
 
 
-## Skils
+## SKILLS
 
 * DevOps and Server Administration (Debian, Ubuntu)
 * Containerization (Docker, Snap)
@@ -58,7 +58,7 @@ I developed a cross-platform client library in Dart.
 * Git and Github-flow
 
 
-## Languages
+## LANGUAGES
 
 * Farsi/Persian
 * English
