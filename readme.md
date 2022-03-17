@@ -12,7 +12,7 @@ I have good knowledge of low-level network programming on Linux, so Ubuntu is my
 I built 15+ projects some in a team but more of them lonely as a software engineer and backend developer.
 
 
-## Projects
+## Notable Projects
 
 ### Ride-sharing app
 Online-taxi project by **NodeJS**+**TypeScript**.
