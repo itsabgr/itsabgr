@@ -13,7 +13,7 @@ I built 15+ projects some in a team but more of them lonely as a software engine
 
 
 ### Projects
-- - - -
+
 ## Ride-sharing app
 Online-taxi project by **NodeJS**+**TypeScript**.
 **MongoDB** was my main database cause of its geo-special and schema-less capabilities and GridFS.
@@ -43,7 +43,7 @@ I developed a cross-platform client library in Dart.
 
 
 ### Skils
-- - - -
+
 * DevOps and Server Administration (Debian, Ubuntu)
 * Containerization (Docker, Snap)
 * C, Go, and NodeJS+TypeScript
@@ -59,6 +59,6 @@ I developed a cross-platform client library in Dart.
 
 
 ### Languages
-- - - -
+
 * Farsi/Persian
 * English
