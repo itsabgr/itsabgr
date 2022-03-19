@@ -15,9 +15,9 @@ I built 15+ projects some in a team but more of them lonely as a software engine
 ## NOTABLE PROJECTS
 
 ### Ride-sharing app
-Online-taxi project by **NodeJS**+**TypeScript**.
-**MongoDB** was my main database cause of its geo-special and schema-less capabilities and GridFS.
-I also used **MySQL** for financial transactions.
+Online-taxi project by NodeJS+TypeScript.
+MongoDB was my main database cause of its geo-special and schema-less capabilities and GridFS.
+I also used MySQL for financial transactions.
 there was no use of WebSockets for notifications and I used a queue and HTTP polling method for that cases.
 its architecture was also used for a massage reservation app and e-commerce but replaced REST by GRPC and by a microservice architecture using NATS.
 
