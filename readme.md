@@ -3,7 +3,7 @@
 
 [📧 tbpmtbpm@gmail.com](mailto:tbpmtbpm@gmail.com)  
 
-[🔗 Github.com/itsabgr](https://github.com/itsabgr) 
+[🔗 Github/itsabgr](https://github.com/itsabgr) 
 
 
 I started programming at 16 by learning Lua in a self-study manner.
@@ -24,7 +24,7 @@ its architecture was also used for a massage reservation app and e-commerce but 
 
 ### Asset management app
 Asset management system by NodeJS for a province that needs to manage and record the repair history of its pylons and wires between them.
-there were a lot of 4K images that I stored into GridFS and cause of complex relationships and queries I used MySQL for their main Database.
+there were a lot of 4K images that I stored in GridFS and cause of complex relationships and queries I used MySQL for their main Database.
 
 
 ### Course management system
@@ -38,8 +38,7 @@ Live Streaming service for an online classroom system by developing an HTTP-live
 
 ### Decentralized Messenger
 A federated and decentralized end-to-end encrypted messenger by Go in a very simple but fast and secure architecture inspired by email.
-I also developed a DHT for its peer discovery to store users' information into that like what IPNS does and a special blockchain to register and assign unique names to users. I also developed a DNS proxy and resolver for integration.
-I developed a cross-platform client library in Dart.
+I developed a DHT for its peer discovery to store users' information into that like what IPNS does and a special blockchain to register and assign unique names to users. I also developed a DNS proxy and resolver for integration and a cross-platform client library in Dart.
 
 
 ## SKILLS
@@ -53,7 +52,7 @@ I developed a cross-platform client library in Dart.
 * Load balancers and Proxies (Nginx)
 * RDBMSs and SQL
 * NoSQL (MongoDB, Redis)
-* P2P, Decentralized, Distributed and Blockchain-based systems
+* P2P, Decentralized, Distributed, and Blockchain-based systems
 * CI/CD
 * Git and Github flow
 
