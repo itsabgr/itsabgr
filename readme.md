@@ -28,17 +28,19 @@ There were a lot of 4K images that are being stored in GridFS and due to complex
 
 
 ### Course management system
-Educational course management system for a university by NodeJS.
-I used MongoDB for their main database and some complicated time-overlaps and conflicts should be managed.
+An Educational course management system for a university was developed by NodeJS.
+MongoDB as used for their main database and some complicated time-overlaps and conflicts had to be managed.
 
 
 ### Live Video Streaming
-Live Streaming service for an online classroom system by developing an HTTP-lives-streaming service in Go with CDN capabilities.
+A lives streaming service in Go with CDN capabilities was developed for an online classroom system.
 
 
 ### Decentralized Messenger
-A federated and decentralized end-to-end encrypted messenger by Go in a very simple but fast and secure architecture inspired by email.
-I developed a DHT for its peer discovery to store users' information into that like what IPNS does and a special blockchain to register and assign unique names to users. I also developed a DNS proxy and resolver for integration and a cross-platform client library in Dart.
+A federated and decentralized end-to-end encrypted messenger by Go in a very simple but fast and secure architecture inspired by email was developed.
+A DHT was developed for its peer discovery to store users' information into that, like what IPNS does, and also a special blockchain was made in order to register and assign unique names to users.
+Moreover, a DNS proxy and resolver was crafted so as to integrate into current networks.
+finally a cross-platform client library was made in Dart.
 
 
 ## SKILLS
