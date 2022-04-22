@@ -23,8 +23,8 @@ Its architecture was also used for a massage reservation app and e-commerce but 
 
 
 ### Asset management app
-Asset management system was made by NodeJS for a province that needs to manage and record the repair history of its pylons and wires between then.
-there were a lot of 4K images that I stored in GridFS and cause of complex relationships and queries I used MySQL for their main Database.
+Asset management system was made by NodeJS for a province that needs to manage and record the repair history of its pylons and wires between them.
+There were a lot of 4K images that I stored in GridFS and cause of complex relationships and queries I used MySQL for their main Database.
 
 
 ### Course management system
