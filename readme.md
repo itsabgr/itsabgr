@@ -40,7 +40,7 @@ A scalable lives streaming service in Go with CDN capabilities was developed for
 A federated and decentralized end-to-end encrypted messenger by Go in a very simple but fast and secure architecture inspired by email was developed.
 A DHT was developed for its peer discovery to store users' information into that, like what IPNS does, and also a special blockchain was made in order to register and assign unique names to users.
 Moreover, a DNS proxy and resolver was crafted so as to integrate into current networks.
-Finally a cross-platform client library was made in Dart.
+Finally, a cross-platform client library was made in Dart.
 
 
 ## SKILLS
