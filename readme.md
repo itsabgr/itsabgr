@@ -8,7 +8,7 @@
 
 I started programming at 16 by learning Lua in a self-study manner.
 I am known as an eager researcher and enjoy studying, designing, and building systems, especially network-based ones.
-I have good knowledge of low-level network programming on Linux, so Ubuntu is my OS.
+I have the knowledge of low-level network programming on Linux, so Ubuntu is my OS.
 I built 15+ projects, some within a team but mostly of them on my own as a software engineer and a backend developer.
 
 
