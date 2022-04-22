@@ -33,7 +33,7 @@ MongoDB was used for their main database and the challenge was that some complic
 
 
 ### Live Video Streaming
-A lives streaming service in Go with CDN capabilities was developed for an online classroom system.
+A scalable lives streaming service in Go with CDN capabilities was developed for an online classroom system.
 
 
 ### Decentralized Messenger
