@@ -7,23 +7,23 @@
 
 
 I started programming at 16 by learning Lua in a self-study manner.
-I’m known as an eager researcher and enjoy studying, designing, and building systems especially network-based ones.
+I am known as an eager researcher and enjoy studying, designing, and building systems, especially network-based ones.
 I have good knowledge of low-level network programming on Linux, so Ubuntu is my OS.
-I built 15+ projects some in a team but more of them lonely as a software engineer and backend developer.
+I built 15+ projects, some within a team but mostly of them on my own as a software engineer and a backend developer.
 
 
 ## NOTABLE PROJECTS
 
 ### Ride-sharing app
 Online-taxi project by NodeJS+TypeScript.
-MongoDB was my main database cause of its geo-special and schema-less capabilities and GridFS.
+MongoDB was my main database mainly because of its geo-special and schema-less capabilities and GridFS.
 I also used MySQL for financial transactions.
-there was no use of WebSockets for notifications and I used a queue and HTTP polling method for that cases.
-its architecture was also used for a massage reservation app and e-commerce but replaced REST by GRPC and by a microservice architecture using NATS.
+There was no use of WebSockets for notifications and instead I used a queue and HTTP polling method for those cases.
+Its architecture was also used for a massage reservation app and e-commerce but GRPC was replaced by REST.
 
 
 ### Asset management app
-Asset management system by NodeJS for a province that needs to manage and record the repair history of its pylons and wires between them.
+Asset management system was made by NodeJS for a province that needs to manage and record the repair history of its pylons and wires between then.
 there were a lot of 4K images that I stored in GridFS and cause of complex relationships and queries I used MySQL for their main Database.
 
 
