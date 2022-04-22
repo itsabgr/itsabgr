@@ -15,7 +15,7 @@ I built 15+ projects, some within a team but mostly on my own as a software engi
 ## NOTABLE PROJECTS
 
 ### Ride-sharing app
-Online-taxi project by NodeJS+TypeScript.
+An Online-taxi project was done by NodeJS+TypeScript.
 MongoDB was my main database mainly because of its geo-special and schema-less capabilities and GridFS.
 I also used MySQL for financial transactions.
 There was no use of WebSockets for notifications and instead I used a queue and HTTP polling method for those cases.
@@ -40,7 +40,7 @@ A lives streaming service in Go with CDN capabilities was developed for an onlin
 A federated and decentralized end-to-end encrypted messenger by Go in a very simple but fast and secure architecture inspired by email was developed.
 A DHT was developed for its peer discovery to store users' information into that, like what IPNS does, and also a special blockchain was made in order to register and assign unique names to users.
 Moreover, a DNS proxy and resolver was crafted so as to integrate into current networks.
-finally a cross-platform client library was made in Dart.
+Finally a cross-platform client library was made in Dart.
 
 
 ## SKILLS
