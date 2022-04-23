@@ -54,7 +54,7 @@ Finally, a cross-platform client library was made in Dart.
 * Load balancers and Proxies (Nginx)
 * RDBMSs and SQL
 * NoSQL (MongoDB, Redis)
-* P2P, Decentralized, Distributed systems
+* P2P, Decentralized and Distributed systems
 * CI/CD
 * Git and Github flow
 
