@@ -32,7 +32,7 @@ An Educational course management system for a university was developed by NodeJS
 MongoDB was used for their main database and the challenge was that some complicated time-overlaps and conflicts had to be managed.
 
 
-### Live Video Streaming
+### Live Streaming
 A scalable lives streaming service in Go with CDN capabilities was developed for an online classroom system.
 
 
