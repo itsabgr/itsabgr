@@ -5,6 +5,7 @@
 
 [🔗 Github/itsabgr](https://github.com/itsabgr) 
 
+[💬 Telegram/itsabgr](https://t.me/itsabgr)
 
 I started programming at 16 by learning Lua in a self-study manner.
 I am known as an eager researcher and enjoy studying, designing, and building systems, especially network-based ones.
