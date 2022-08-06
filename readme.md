@@ -1,5 +1,4 @@
 # ENG. A. BAGHERI
-**Birth in 1998** 
 
 [📧 tbpmtbpm@gmail.com](mailto:tbpmtbpm@gmail.com)  
 
