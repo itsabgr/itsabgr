@@ -8,7 +8,7 @@
 
 I started programming at 16 by learning Lua in a self-study manner.
 I am known as an eager researcher and enjoy studying, designing, and building systems, especially network-based ones.
-I have the knowledge of low-level network programming on Linux, for this Ubuntu is my OS.
+I have knowledge of low-level network programming on Linux, and for this Ubuntu is my OS.
 I built 15+ projects, some within a team but mostly on my own as a software engineer and a backend developer.
 
 
@@ -29,19 +29,26 @@ There were a lot of 4K images that are being stored in GridFS and due to complex
 
 ### Course Management System
 An Educational course management system for a university was developed by NodeJS.
-MongoDB was used for their main database and the challenge was that some complicated time-overlaps and conflicts had to be managed.
+MongoDB was used for their main database and the challenge was that some complicated time overlaps and conflicts had to be managed.
 
 
 ### Live Streaming
-A scalable lives streaming service in Go with CDN capabilities was developed for an online classroom system.
+A scalable live-streaming service in Go with CDN capabilities was developed for an online classroom system.
 
 
 ### Decentralized Messenger
 A federated and decentralized end-to-end encrypted messenger by Go in a very simple but fast and secure architecture inspired by email was developed.
 A DHT was developed for its peer discovery to store users' information into that, like what IPNS does, and also a special blockchain was made in order to register and assign unique names to users.
-Moreover, a DNS proxy and resolver was crafted so as to integrate into current networks.
+Moreover, a DNS proxy and resolver were crafted so as to integrate into current networks.
 Finally, a cross-platform client library was made in Dart.
 
+
+### Decentralized Cryptocurrency
+
+A Decentralized, Permission-less, DAG-based, and eUTXO-based cryptocurrency that leverage the best Ideas from other projects.
+I also developed an interpreted scripting language due to implementing smart contracts.
+It can process transactions near a second with low cost and
+It's built-in to create new tokens with their parallel and separate chains.
 
 ## SKILLS
 
@@ -57,6 +64,7 @@ Finally, a cross-platform client library was made in Dart.
 * P2P, Decentralized and Distributed systems
 * CI/CD
 * Git and Github flow
+* Cryptocurrencies and decentralized networks 
 
 
 ## LANGUAGES
