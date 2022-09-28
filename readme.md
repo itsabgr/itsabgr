@@ -42,6 +42,13 @@ A DHT was developed for its peer discovery to store users' information into that
 Moreover, a DNS proxy and resolver was crafted to integrate into current networks.
 Finally, a cross-platform client library was made in Dart.
 
+### Decentralized Cryptocurrency
+
+A Decentralized DAG-based, and UTXO-based cryptocurrency that leverage the best Ideas from other projects.
+I also developed an interpreted scripting language due to implementing human-readble smart contracts.
+It can process transactions near a second with low cost and
+It's built-in to create new tokens with their parallel and separate chains.
+
 
 ## SKILLS
 
