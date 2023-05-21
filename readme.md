@@ -49,22 +49,32 @@ I also developed an interpreted scripting language due to implementing human-rea
 It can process transactions near a second with low cost and
 It's built-in to create new tokens with their parallel and separate chains.
 
+### Ethereum-compatible blockchain
+
+A sequential PoS Ethereum-compatible chain
+on top of the Tendermint / Cosmos SDK with some optimizations.
+I understood how Ethereum and EVM work in depths to make it Ethereum-compatible and expose the same API as Ethereum.
+To improve the throughput I added some optimizations in the processing and consensus parts.
+I also used a method to solve blockchain big data size problem.
+
+
 
 ## SKILLS
 
 * DevOps and Server Administration (Debian, Ubuntu)
 * Containerization (Docker, Snap)
-* C, Go, and NodeJS+TypeScript
+* C, Go, NodeJS+TypeScript and Solidity
 * Microservices architecture
 * Parallel and concurrent processing
 * TCP/IP networks
+* Blockchain L1 and L2
 * Load balancers and Proxies (Nginx)
 * RDBMSs and SQL
 * NoSQL (MongoDB, Redis)
 * P2P, Decentralized and Distributed systems
 * CI/CD
 * Git and Github flow
-* Cryptocurrencies and decentralized networks 
+* Smart Contract development
 
 
 ## LANGUAGES
