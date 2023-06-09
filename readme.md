@@ -62,7 +62,7 @@ I also used a method to solve blockchain big data size problem.
 ## SKILLS
 
 * DevOps and Server Administration (Debian, Ubuntu)
-* Containerization (Docker, Snap)
+* Containerization (Docker, Snap) and Orchestration (Swarm)
 * C, Go, NodeJS+TypeScript and Solidity
 * Microservices architecture
 * Parallel and concurrent processing
