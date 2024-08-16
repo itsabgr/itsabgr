@@ -96,7 +96,7 @@ Its architecture was also used for a massage reservation app and e-commerce, but
 * P2P, Decentralized and Distributed systems
 * CI/CD
 * Git and Github flow
-* Smart Contract and Oracle developmen
+* Smart Contract and Oracle development
 
 
 ## LANGUAGES
