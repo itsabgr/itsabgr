@@ -11,6 +11,25 @@ I am known as an eager researcher and enjoy studying, designing, and building sy
 I have knowledge of low-level network programming on Linux, and for this, Ubuntu is my OS.
 I built 15+ projects, some within a team but mostly on my own as a software engineer and a backend developer.
 
+## SKILLS
+
+* DevOps and Server Administration (Debian, Ubuntu)
+* Containerization (Docker, Snap) and Orchestration (Swarm)
+* C, Go, NodeJS+TypeScript, and Solidity
+* Microservices architecture
+* Parallel and concurrent processing
+* TCP/IP networks
+* Blockchain L1 and L2
+* Load balancers and Proxies (Nginx)
+* RDBMSs and SQL
+* Message Queues (AMQP, Rabbit MQ)
+* Stateful Stream Processing
+* NoSQL (MongoDB, Redis)
+* P2P, Decentralized, and Distributed systems
+* CI/CD
+* Git and Github flow
+* Smart Contract and Oracle development
+
 ## NOTABLE PROJECTS
 
 ### Network Policy Verfier
@@ -74,23 +93,6 @@ MongoDB was the main database mainly because of its geo-special and schema-less 
 I also used MySQL for financial transactions.
 There was no use of WebSockets for notifications; instead, I used a queue and HTTP polling method for those cases.
 Its architecture was also used for a massage reservation app and e-commerce, but GRPC was replaced by REST.
-
-## SKILLS
-
-* DevOps and Server Administration (Debian, Ubuntu)
-* Containerization (Docker, Snap) and Orchestration (Swarm)
-* C, Go, NodeJS+TypeScript, and Solidity
-* Microservices architecture
-* Parallel and concurrent processing
-* TCP/IP networks
-* Blockchain L1 and L2
-* Load balancers and Proxies (Nginx)
-* RDBMSs and SQL
-* NoSQL (MongoDB, Redis)
-* P2P, Decentralized, and Distributed systems
-* CI/CD
-* Git and Github flow
-* Smart Contract and Oracle development
 
 ## LANGUAGES
 
