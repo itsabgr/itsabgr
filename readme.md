@@ -32,7 +32,7 @@ I built 15+ projects, some within a team but mostly on my own as a software engi
 
 ## NOTABLE PROJECTS
 
-### Network Policy Verfier
+### Network Policy Verifier
 
 Developed and implemented a comprehensive and scalable internet (WWW) monitoring system leveraging technologies such as Golang, RabbitMQ, Selenium (WebDriver), Elasticsearch, and PostgreSQL. The system integrated a web crawler, developed by another team, to extract domains and feed them into a stateful stream processing pipeline. Designed the pipeline to handle real-time data propagation and transformation using RabbitMQ and Golang. Selenium was employed for data extraction and processing, while the results were aggregated and indexed in Elasticsearch for analytics and stored in PostgreSQL for long-term storage and optimized querying. One of the main challenges of the project was managing Selenium’s heavy and slow operations while handling a high input load in the stream processing system to ensure no data was lost. Additionally, it required precise and accurate data processing with stateful operations, necessitating careful management of the system state for reliability and performance.
 
