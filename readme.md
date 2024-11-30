@@ -1,6 +1,6 @@
 # ENG. A. BAGHERI
 
-[📧 tbpmtbpm@gmail.com](mailto:tbpmtbpm@gmail.com)
+[📧 abgr@duck.com](mailto:abgr@duck.com)
 
 [🔗 Github/itsabgr](https://github.com/itsabgr)
 
